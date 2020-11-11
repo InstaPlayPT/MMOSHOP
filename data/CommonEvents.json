@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Server Started!"]},{"code":0,"indent":0,"parameters":[]}],"name":"On server start","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Someone Joined!"]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":355,"indent":0,"parameters":["window.open(\"https://instaplaypt.github.io/Nin10do/\", \"_blank\");"]},{"code":0,"indent":0,"parameters":[]}],"name":"Arcade","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":355,"indent":0,"parameters":["window.open(\"https://drive.google.com/drive/folders/107Nx6MJtss78_KkW62uZD68DX6zmFYEq?usp=sharing\", \"_blank\");"]},{"code":0,"indent":0,"parameters":[]}],"name":"Pokemon","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":355,"indent":0,"parameters":["window.open(\"https://drive.google.com/drive/folders/1BQpJc1zC7ar9ehzTtHe1mw3zCKc10wuZ?usp=sharing\", \"_blank\");"]},{"code":0,"indent":0,"parameters":[]}],"name":"Action","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":355,"indent":0,"parameters":["window.open(\"https://drive.google.com/drive/folders/1RWQ_NU89HtChZ4p2ImrXst068OrOKbUy?usp=sharing\", \"_blank\");"]},{"code":0,"indent":0,"parameters":[]}],"name":"Breath Of Fire","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":355,"indent":0,"parameters":["window.open(\"https://drive.google.com/drive/folders/1NVWx6kgxWG4gXitY6a9Md_VBzk5TSZ1U?usp=sharing\", \"_blank\");"]},{"code":0,"indent":0,"parameters":[]}],"name":"Chrono Cross","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":355,"indent":0,"parameters":["window.open(\"https://drive.google.com/drive/folders/1GOTviH0pNFimheGBHlcMWO4D4aDsAcuI?usp=sharing\", \"_blank\");"]},{"code":0,"indent":0,"parameters":[]}],"name":"Final Fantasy","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":355,"indent":0,"parameters":["window.open(\"https://drive.google.com/drive/folders/17-OA5o9ODcPyGUR0zB9v9700IpBBLWCC?usp=sharing\", \"_blank\");"]},{"code":0,"indent":0,"parameters":[]}],"name":"Zelda","switchId":1,"trigger":0}
+]
