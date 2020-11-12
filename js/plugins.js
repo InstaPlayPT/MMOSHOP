@@ -3,5 +3,6 @@
 var $plugins =
 [
 {"name":"SocketIO","status":true,"description":"v2.0.4 - Socket.IO (for Alpha NET plugin)","parameters":{}},
-{"name":"Alpha_NET_build","status":true,"description":"v0.7.900 Network system (Beta)","parameters":{"Alpha NET":"","GameMode":"Cooperative","ActorsForPlayers":"1, 2, 3, 4","NetworkEvents":"--- --- --- --- ---","ServerStarted":"0","OnConnect":"0","OnDisconect":"0","OnOtherCon":"0","OnOtherDisc":"0","OnPvPEnd":"0","NetworkUI":"--- --- --- --- ---","NameplatesMode":"Others","_supporters":"Thanks to these guys!","Donald Derrick":"","Ilya Chkoliar":"https://elushisgaming.club/","Kevin Sjöberg":"","Sarcastic Sloth":"https://sarcasticsloth42.wixsite.com/avillainstale","Plerai":""}}
+{"name":"Alpha_NET_build","status":true,"description":"v0.7.900 Network system (Beta)","parameters":{"Alpha NET":"","GameMode":"Cooperative","ActorsForPlayers":"1, 2, 3, 4","NetworkEvents":"--- --- --- --- ---","ServerStarted":"0","OnConnect":"0","OnDisconect":"0","OnOtherCon":"0","OnOtherDisc":"0","OnPvPEnd":"0","NetworkUI":"--- --- --- --- ---","NameplatesMode":"Others","_supporters":"Thanks to these guys!","Donald Derrick":"","Ilya Chkoliar":"https://elushisgaming.club/","Kevin Sjöberg":"","Sarcastic Sloth":"https://sarcasticsloth42.wixsite.com/avillainstale","Plerai":""}},
+{"name":"SRD_FullscreenToggleOption","status":true,"description":"Adds a Fullscreen Toggle to the Options Window","parameters":{"Option Name":"Fullscreen","Position":"Middle","Default Value":"false","Persist Default?":"false"}}
 ];
